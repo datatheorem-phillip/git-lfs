@@ -31,6 +31,7 @@ Alternatively, you can install a recent version of Git LFS from the [Chocolatey]
 
 #### From binary
 
+
 [Binary packages](https://github.com/git-lfs/git-lfs/releases) are
 available for Linux, macOS, Windows, and FreeBSD.
 The binary packages include a script which will:
